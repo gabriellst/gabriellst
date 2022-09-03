@@ -1,5 +1,10 @@
 ### Hey! Welcome to my GitHub page 👋
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+
 <!--
 **gabriellst/gabriellst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
